@@ -11,6 +11,9 @@ Links
 Horizontal rulers
 Images. etc.
 
+### [SteemConnect OAuth SDK](https://github.com/hapramp/steemconnect4j)
+An OAuth SDK for Blockchain platform.
+
 ### [AnyAudio](https://github.com/bxute/AnyAudio) - Offlined
 A music streaming app. Streams audio from youtube
 
