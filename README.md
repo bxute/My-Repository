@@ -26,7 +26,7 @@ A sample project for different bitmap operations.
 ### [Streak Calendar](https://github.com/bxute/DateLessCalendar)
 Custom calendar for showing continues streaks for some action.
 
-### [Event Calendar[(https://github.com/bxute/CleanCalendar)
+### [Event Calendar](https://github.com/bxute/CleanCalendar)
 Custom calendar for showing events on dates.
 
 ### [CoordinatorLayout Behaviours](https://github.com/bxute/ParallaxBehaviour)
