@@ -2,7 +2,7 @@
 
 ### [MarkDEditor](https://github.com/bxute/MarkDEditor)
 
-A Android Library for Text editor for full fledge blog writing. Supports Normal Text
+An Android Library for Text editor for full fledge blog writing. Supports Normal Text
 H1, H2, H3, H4, H5
 UL (Unordered List)
 OL (Ordered List)
